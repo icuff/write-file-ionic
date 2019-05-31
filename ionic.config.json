@@ -1,5 +1,7 @@
 {
   "name": "writeToFileIonic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
